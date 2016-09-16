@@ -2,13 +2,27 @@
 	background-color: #ffffff
 }
 
+.logo {
+	font-size: 18px;
+}
+
 .logo-first {
-	/* color: #478acf; */
+	content: "O";
 	color: #428bca
 }
 
 .logo-else {
 	color: #fd9f57;
+}
+
+.logo-branch {
+	color: #777;
+	text-transform: uppercase;
+  top: -10px;
+	font-size: 8px;
+	margin: 0;
+	position: relative;
+  padding: 0px 0 0 2px;
 }
 
 .nav > li > a:hover,
